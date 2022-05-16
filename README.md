@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @marianalirap
-- 👀 I’m interested in General Relativiy, Astrophysics, Gravitational Waves, Compact objects and Data Analysis
-- 🌱 I’m currently learning Gravitational-wave data analysis and about boson stars
+- 👀 I’m interested in General Relativity, Astrophysics, Gravitational Waves, Compact objects and Data Analysis
+- 🌱 I’m currently learning Gravitational-wave data analysis. 
 
 Write me to lira@ciencias.unam.mx
 
